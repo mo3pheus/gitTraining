@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>sbd.digital.accelerator</groupId>
-    <artifactId>sound.ml</artifactId>
+    <groupId>islr.frAgnels.edu</groupId>
+    <artifactId>islr.git.training</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
