@@ -9,11 +9,11 @@ public class Driver {
         System.out.println("Hello and welcome to git training");
         int base = 2;
         int height = 4;
-        System.out.println("Area of triangle with base and height = " + base + " " + height + " = " + getArea(base,height));
+        System.out.println("Area of triangle with base and height = " + base + " " + height + " = " + getAreaTriangle(base,height));
         System.out.println(SEPARATOR);
     }
 
-    public static double getAreaTriangle(int base, int height){
+    public static double getAreaTriangle(int base,int height){
     	return 0.5d * base * height;
     }
 }
